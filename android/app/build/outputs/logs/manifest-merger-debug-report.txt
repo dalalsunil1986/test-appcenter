@@ -1,0 +1,180 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/galihlarasprakoso/Projects/MyProjects/ReactNative/AppCenterTest/android/app/src/main/AndroidManifest.xml:1:1-26:12
+INJECTED from /Users/galihlarasprakoso/Projects/MyProjects/ReactNative/AppCenterTest/android/app/src/main/AndroidManifest.xml:1:1-26:12
+INJECTED from /Users/galihlarasprakoso/Projects/MyProjects/ReactNative/AppCenterTest/android/app/src/main/AndroidManifest.xml:1:1-26:12
+INJECTED from /Users/galihlarasprakoso/Projects/MyProjects/ReactNative/AppCenterTest/android/app/src/main/AndroidManifest.xml:1:1-26:12
+MERGED from [:appcenter-crashes] /Users/galihlarasprakoso/Projects/MyProjects/ReactNative/AppCenterTest/node_modules/appcenter-crashes/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:appcenter-analytics] /Users/galihlarasprakoso/Projects/MyProjects/ReactNative/AppCenterTest/node_modules/appcenter-analytics/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:appcenter] /Users/galihlarasprakoso/Projects/MyProjects/ReactNative/AppCenterTest/node_modules/appcenter/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [com.facebook.react:react-native:0.58.4] /Users/galihlarasprakoso/.gradle/caches/transforms-1/files-1.1/react-native-0.58.4.aar/8b2ed4f4aaf36e606e4644abb50fc110/AndroidManifest.xml:2:1-15:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] /Users/galihlarasprakoso/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/25cc5c08c2d544ea6abff5569194de53/AndroidManifest.xml:17:1-22:12
+MERGED from [com.microsoft.appcenter:appcenter-crashes:1.11.3] /Users/galihlarasprakoso/.gradle/caches/transforms-1/files-1.1/appcenter-crashes-1.11.3.aar/c358d48ccca47106402540215926ea2d/AndroidManifest.xml:2:1-11:12
+MERGED from [com.microsoft.appcenter.reactnative:appcenter-react-native:1.12.2] /Users/galihlarasprakoso/.gradle/caches/transforms-1/files-1.1/appcenter-react-native-1.12.2.aar/dd565b138dc0e14dd8acad0c7fc2afcd/AndroidManifest.xml:2:1-11:12
+MERGED from [com.microsoft.appcenter:appcenter-analytics:1.11.3] /Users/galihlarasprakoso/.gradle/caches/transforms-1/files-1.1/appcenter-analytics-1.11.3.aar/2c5a501de04f1f903985d7f2043e3d48/AndroidManifest.xml:2:1-11:12
+MERGED from [com.microsoft.appcenter:appcenter:1.11.3] /Users/galihlarasprakoso/.gradle/caches/transforms-1/files-1.1/appcenter-1.11.3.aar/4e91660a3fe842398def6a847a120aba/AndroidManifest.xml:2:1-14:12
+MERGED from [com.android.support:support-fragment:27.1.1] /Users/galihlarasprakoso/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/ff86c7a9a22e8c3026611e57c9829142/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /Users/galihlarasprakoso/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/7e8bc6d40fa3e5f77399fcfdd1badecc/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] /Users/galihlarasprakoso/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/50e41decd81a4bdcc1e95a3f4ce7a2f6/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] /Users/galihlarasprakoso/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/be6ccf70f79fabbed725d18d58b729a9/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /Users/galihlarasprakoso/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/84ea557bba57e704d2c8912bd3698373/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] /Users/galihlarasprakoso/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/a6124258e93b44056ba007d9795f5d09/AndroidManifest.xml:17:1-22:12
+MERGED from [com.facebook.fresco:fresco:1.10.0] /Users/galihlarasprakoso/.gradle/caches/transforms-1/files-1.1/fresco-1.10.0.aar/54632990469c8ce95cbaa84f764937d9/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.10.0] /Users/galihlarasprakoso/.gradle/caches/transforms-1/files-1.1/imagepipeline-okhttp3-1.10.0.aar/5c44d532e9087c97ef4e5e618ed5cc91/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:drawee:1.10.0] /Users/galihlarasprakoso/.gradle/caches/transforms-1/files-1.1/drawee-1.10.0.aar/689baa2c87828778ea2689260f1e224c/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline:1.10.0] /Users/galihlarasprakoso/.gradle/caches/transforms-1/files-1.1/imagepipeline-1.10.0.aar/cfdc8c626cdab7f2fe9bd8d893a50ef6/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-base:1.10.0] /Users/galihlarasprakoso/.gradle/caches/transforms-1/files-1.1/imagepipeline-base-1.10.0.aar/231ab95a9892c54fba86343d5b747609/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.soloader:soloader:0.6.0] /Users/galihlarasprakoso/.gradle/caches/transforms-1/files-1.1/soloader-0.6.0.aar/a8352e748f061d5e5feafa3075c93d3d/AndroidManifest.xml:2:1-13:12
+MERGED from [org.webkit:android-jsc:r174650] /Users/galihlarasprakoso/.gradle/caches/transforms-1/files-1.1/android-jsc-r174650.aar/bdc4aedc9f7123005619182a500d1fc9/AndroidManifest.xml:1:1-3:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/galihlarasprakoso/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/bebd264250633e4148752fb2fa6cb947/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/galihlarasprakoso/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/421be156a7cfa0a0a83f1ce671d62e6d/AndroidManifest.xml:17:1-22:12
+MERGED from [com.facebook.fresco:fbcore:1.10.0] /Users/galihlarasprakoso/.gradle/caches/transforms-1/files-1.1/fbcore-1.10.0.aar/84878f011eeb54d81bd5dd13ffbf7932/AndroidManifest.xml:2:1-9:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/galihlarasprakoso/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/8fbd9adcf2adca4470b7322eeb33acd0/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] /Users/galihlarasprakoso/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/6b0e357faccadf1962ccbc325f6bd202/AndroidManifest.xml:17:1-22:12
+INJECTED from /Users/galihlarasprakoso/Projects/MyProjects/ReactNative/AppCenterTest/android/app/src/main/AndroidManifest.xml:1:1-26:12
+INJECTED from /Users/galihlarasprakoso/Projects/MyProjects/ReactNative/AppCenterTest/android/app/src/main/AndroidManifest.xml:1:1-26:12
+INJECTED from /Users/galihlarasprakoso/Projects/MyProjects/ReactNative/AppCenterTest/android/app/src/main/AndroidManifest.xml:1:1-26:12
+	package
+		ADDED from /Users/galihlarasprakoso/Projects/MyProjects/ReactNative/AppCenterTest/android/app/src/main/AndroidManifest.xml:2:5-32
+		INJECTED from /Users/galihlarasprakoso/Projects/MyProjects/ReactNative/AppCenterTest/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/galihlarasprakoso/Projects/MyProjects/ReactNative/AppCenterTest/android/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/galihlarasprakoso/Projects/MyProjects/ReactNative/AppCenterTest/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/galihlarasprakoso/Projects/MyProjects/ReactNative/AppCenterTest/android/app/src/main/AndroidManifest.xml:1:1-26:12
+		INJECTED from /Users/galihlarasprakoso/Projects/MyProjects/ReactNative/AppCenterTest/android/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/galihlarasprakoso/Projects/MyProjects/ReactNative/AppCenterTest/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/galihlarasprakoso/Projects/MyProjects/ReactNative/AppCenterTest/android/app/src/main/AndroidManifest.xml:1:1-26:12
+		INJECTED from /Users/galihlarasprakoso/Projects/MyProjects/ReactNative/AppCenterTest/android/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/galihlarasprakoso/Projects/MyProjects/ReactNative/AppCenterTest/android/app/src/main/AndroidManifest.xml:1:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /Users/galihlarasprakoso/Projects/MyProjects/ReactNative/AppCenterTest/android/app/src/main/AndroidManifest.xml:4:5-67
+MERGED from [com.microsoft.appcenter:appcenter:1.11.3] /Users/galihlarasprakoso/.gradle/caches/transforms-1/files-1.1/appcenter-1.11.3.aar/4e91660a3fe842398def6a847a120aba/AndroidManifest.xml:11:5-67
+MERGED from [com.microsoft.appcenter:appcenter:1.11.3] /Users/galihlarasprakoso/.gradle/caches/transforms-1/files-1.1/appcenter-1.11.3.aar/4e91660a3fe842398def6a847a120aba/AndroidManifest.xml:11:5-67
+	android:name
+		ADDED from /Users/galihlarasprakoso/Projects/MyProjects/ReactNative/AppCenterTest/android/app/src/main/AndroidManifest.xml:4:22-64
+uses-permission#android.permission.SYSTEM_ALERT_WINDOW
+ADDED from /Users/galihlarasprakoso/Projects/MyProjects/ReactNative/AppCenterTest/android/app/src/main/AndroidManifest.xml:5:5-77
+MERGED from [com.facebook.react:react-native:0.58.4] /Users/galihlarasprakoso/.gradle/caches/transforms-1/files-1.1/react-native-0.58.4.aar/8b2ed4f4aaf36e606e4644abb50fc110/AndroidManifest.xml:11:5-78
+MERGED from [com.facebook.react:react-native:0.58.4] /Users/galihlarasprakoso/.gradle/caches/transforms-1/files-1.1/react-native-0.58.4.aar/8b2ed4f4aaf36e606e4644abb50fc110/AndroidManifest.xml:11:5-78
+	android:name
+		ADDED from /Users/galihlarasprakoso/Projects/MyProjects/ReactNative/AppCenterTest/android/app/src/main/AndroidManifest.xml:5:22-75
+application
+ADDED from /Users/galihlarasprakoso/Projects/MyProjects/ReactNative/AppCenterTest/android/app/src/main/AndroidManifest.xml:7:5-24:19
+MERGED from [com.facebook.react:react-native:0.58.4] /Users/galihlarasprakoso/.gradle/caches/transforms-1/files-1.1/react-native-0.58.4.aar/8b2ed4f4aaf36e606e4644abb50fc110/AndroidManifest.xml:13:5-20
+MERGED from [com.facebook.react:react-native:0.58.4] /Users/galihlarasprakoso/.gradle/caches/transforms-1/files-1.1/react-native-0.58.4.aar/8b2ed4f4aaf36e606e4644abb50fc110/AndroidManifest.xml:13:5-20
+MERGED from [com.facebook.soloader:soloader:0.6.0] /Users/galihlarasprakoso/.gradle/caches/transforms-1/files-1.1/soloader-0.6.0.aar/a8352e748f061d5e5feafa3075c93d3d/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.soloader:soloader:0.6.0] /Users/galihlarasprakoso/.gradle/caches/transforms-1/files-1.1/soloader-0.6.0.aar/a8352e748f061d5e5feafa3075c93d3d/AndroidManifest.xml:11:5-20
+MERGED from [org.webkit:android-jsc:r174650] /Users/galihlarasprakoso/.gradle/caches/transforms-1/files-1.1/android-jsc-r174650.aar/bdc4aedc9f7123005619182a500d1fc9/AndroidManifest.xml:2:3-17
+MERGED from [org.webkit:android-jsc:r174650] /Users/galihlarasprakoso/.gradle/caches/transforms-1/files-1.1/android-jsc-r174650.aar/bdc4aedc9f7123005619182a500d1fc9/AndroidManifest.xml:2:3-17
+	android:label
+		ADDED from /Users/galihlarasprakoso/Projects/MyProjects/ReactNative/AppCenterTest/android/app/src/main/AndroidManifest.xml:9:7-39
+	android:icon
+		ADDED from /Users/galihlarasprakoso/Projects/MyProjects/ReactNative/AppCenterTest/android/app/src/main/AndroidManifest.xml:10:7-41
+	android:allowBackup
+		ADDED from /Users/galihlarasprakoso/Projects/MyProjects/ReactNative/AppCenterTest/android/app/src/main/AndroidManifest.xml:11:7-34
+	android:theme
+		ADDED from /Users/galihlarasprakoso/Projects/MyProjects/ReactNative/AppCenterTest/android/app/src/main/AndroidManifest.xml:12:7-38
+	android:name
+		ADDED from /Users/galihlarasprakoso/Projects/MyProjects/ReactNative/AppCenterTest/android/app/src/main/AndroidManifest.xml:8:7-38
+activity#com.appcentertest.MainActivity
+ADDED from /Users/galihlarasprakoso/Projects/MyProjects/ReactNative/AppCenterTest/android/app/src/main/AndroidManifest.xml:13:7-22:18
+	android:label
+		ADDED from /Users/galihlarasprakoso/Projects/MyProjects/ReactNative/AppCenterTest/android/app/src/main/AndroidManifest.xml:15:9-41
+	android:windowSoftInputMode
+		ADDED from /Users/galihlarasprakoso/Projects/MyProjects/ReactNative/AppCenterTest/android/app/src/main/AndroidManifest.xml:17:9-51
+	android:configChanges
+		ADDED from /Users/galihlarasprakoso/Projects/MyProjects/ReactNative/AppCenterTest/android/app/src/main/AndroidManifest.xml:16:9-79
+	android:name
+		ADDED from /Users/galihlarasprakoso/Projects/MyProjects/ReactNative/AppCenterTest/android/app/src/main/AndroidManifest.xml:14:9-37
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/galihlarasprakoso/Projects/MyProjects/ReactNative/AppCenterTest/android/app/src/main/AndroidManifest.xml:18:9-21:25
+action#android.intent.action.MAIN
+ADDED from /Users/galihlarasprakoso/Projects/MyProjects/ReactNative/AppCenterTest/android/app/src/main/AndroidManifest.xml:19:13-65
+	android:name
+		ADDED from /Users/galihlarasprakoso/Projects/MyProjects/ReactNative/AppCenterTest/android/app/src/main/AndroidManifest.xml:19:21-62
+category#android.intent.category.LAUNCHER
+ADDED from /Users/galihlarasprakoso/Projects/MyProjects/ReactNative/AppCenterTest/android/app/src/main/AndroidManifest.xml:20:13-73
+	android:name
+		ADDED from /Users/galihlarasprakoso/Projects/MyProjects/ReactNative/AppCenterTest/android/app/src/main/AndroidManifest.xml:20:23-70
+activity#com.facebook.react.devsupport.DevSettingsActivity
+ADDED from /Users/galihlarasprakoso/Projects/MyProjects/ReactNative/AppCenterTest/android/app/src/main/AndroidManifest.xml:23:7-84
+	android:name
+		ADDED from /Users/galihlarasprakoso/Projects/MyProjects/ReactNative/AppCenterTest/android/app/src/main/AndroidManifest.xml:23:17-81
+uses-sdk
+INJECTED from /Users/galihlarasprakoso/Projects/MyProjects/ReactNative/AppCenterTest/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/galihlarasprakoso/Projects/MyProjects/ReactNative/AppCenterTest/android/app/src/main/AndroidManifest.xml
+INJECTED from /Users/galihlarasprakoso/Projects/MyProjects/ReactNative/AppCenterTest/android/app/src/main/AndroidManifest.xml
+MERGED from [:appcenter-crashes] /Users/galihlarasprakoso/Projects/MyProjects/ReactNative/AppCenterTest/node_modules/appcenter-crashes/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:appcenter-crashes] /Users/galihlarasprakoso/Projects/MyProjects/ReactNative/AppCenterTest/node_modules/appcenter-crashes/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:appcenter-analytics] /Users/galihlarasprakoso/Projects/MyProjects/ReactNative/AppCenterTest/node_modules/appcenter-analytics/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:appcenter-analytics] /Users/galihlarasprakoso/Projects/MyProjects/ReactNative/AppCenterTest/node_modules/appcenter-analytics/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:appcenter] /Users/galihlarasprakoso/Projects/MyProjects/ReactNative/AppCenterTest/node_modules/appcenter/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:appcenter] /Users/galihlarasprakoso/Projects/MyProjects/ReactNative/AppCenterTest/node_modules/appcenter/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.58.4] /Users/galihlarasprakoso/.gradle/caches/transforms-1/files-1.1/react-native-0.58.4.aar/8b2ed4f4aaf36e606e4644abb50fc110/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.58.4] /Users/galihlarasprakoso/.gradle/caches/transforms-1/files-1.1/react-native-0.58.4.aar/8b2ed4f4aaf36e606e4644abb50fc110/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:appcompat-v7:27.1.1] /Users/galihlarasprakoso/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/25cc5c08c2d544ea6abff5569194de53/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] /Users/galihlarasprakoso/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/25cc5c08c2d544ea6abff5569194de53/AndroidManifest.xml:20:5-44
+MERGED from [com.microsoft.appcenter:appcenter-crashes:1.11.3] /Users/galihlarasprakoso/.gradle/caches/transforms-1/files-1.1/appcenter-crashes-1.11.3.aar/c358d48ccca47106402540215926ea2d/AndroidManifest.xml:7:5-9:41
+MERGED from [com.microsoft.appcenter:appcenter-crashes:1.11.3] /Users/galihlarasprakoso/.gradle/caches/transforms-1/files-1.1/appcenter-crashes-1.11.3.aar/c358d48ccca47106402540215926ea2d/AndroidManifest.xml:7:5-9:41
+MERGED from [com.microsoft.appcenter.reactnative:appcenter-react-native:1.12.2] /Users/galihlarasprakoso/.gradle/caches/transforms-1/files-1.1/appcenter-react-native-1.12.2.aar/dd565b138dc0e14dd8acad0c7fc2afcd/AndroidManifest.xml:7:5-9:41
+MERGED from [com.microsoft.appcenter.reactnative:appcenter-react-native:1.12.2] /Users/galihlarasprakoso/.gradle/caches/transforms-1/files-1.1/appcenter-react-native-1.12.2.aar/dd565b138dc0e14dd8acad0c7fc2afcd/AndroidManifest.xml:7:5-9:41
+MERGED from [com.microsoft.appcenter:appcenter-analytics:1.11.3] /Users/galihlarasprakoso/.gradle/caches/transforms-1/files-1.1/appcenter-analytics-1.11.3.aar/2c5a501de04f1f903985d7f2043e3d48/AndroidManifest.xml:7:5-9:41
+MERGED from [com.microsoft.appcenter:appcenter-analytics:1.11.3] /Users/galihlarasprakoso/.gradle/caches/transforms-1/files-1.1/appcenter-analytics-1.11.3.aar/2c5a501de04f1f903985d7f2043e3d48/AndroidManifest.xml:7:5-9:41
+MERGED from [com.microsoft.appcenter:appcenter:1.11.3] /Users/galihlarasprakoso/.gradle/caches/transforms-1/files-1.1/appcenter-1.11.3.aar/4e91660a3fe842398def6a847a120aba/AndroidManifest.xml:7:5-9:41
+MERGED from [com.microsoft.appcenter:appcenter:1.11.3] /Users/galihlarasprakoso/.gradle/caches/transforms-1/files-1.1/appcenter-1.11.3.aar/4e91660a3fe842398def6a847a120aba/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:support-fragment:27.1.1] /Users/galihlarasprakoso/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/ff86c7a9a22e8c3026611e57c9829142/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] /Users/galihlarasprakoso/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/ff86c7a9a22e8c3026611e57c9829142/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /Users/galihlarasprakoso/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/7e8bc6d40fa3e5f77399fcfdd1badecc/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /Users/galihlarasprakoso/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/7e8bc6d40fa3e5f77399fcfdd1badecc/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] /Users/galihlarasprakoso/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/50e41decd81a4bdcc1e95a3f4ce7a2f6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] /Users/galihlarasprakoso/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/50e41decd81a4bdcc1e95a3f4ce7a2f6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] /Users/galihlarasprakoso/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/be6ccf70f79fabbed725d18d58b729a9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] /Users/galihlarasprakoso/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/be6ccf70f79fabbed725d18d58b729a9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /Users/galihlarasprakoso/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/84ea557bba57e704d2c8912bd3698373/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /Users/galihlarasprakoso/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/84ea557bba57e704d2c8912bd3698373/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] /Users/galihlarasprakoso/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/a6124258e93b44056ba007d9795f5d09/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] /Users/galihlarasprakoso/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/a6124258e93b44056ba007d9795f5d09/AndroidManifest.xml:20:5-44
+MERGED from [com.facebook.fresco:fresco:1.10.0] /Users/galihlarasprakoso/.gradle/caches/transforms-1/files-1.1/fresco-1.10.0.aar/54632990469c8ce95cbaa84f764937d9/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fresco:1.10.0] /Users/galihlarasprakoso/.gradle/caches/transforms-1/files-1.1/fresco-1.10.0.aar/54632990469c8ce95cbaa84f764937d9/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.10.0] /Users/galihlarasprakoso/.gradle/caches/transforms-1/files-1.1/imagepipeline-okhttp3-1.10.0.aar/5c44d532e9087c97ef4e5e618ed5cc91/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.10.0] /Users/galihlarasprakoso/.gradle/caches/transforms-1/files-1.1/imagepipeline-okhttp3-1.10.0.aar/5c44d532e9087c97ef4e5e618ed5cc91/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:1.10.0] /Users/galihlarasprakoso/.gradle/caches/transforms-1/files-1.1/drawee-1.10.0.aar/689baa2c87828778ea2689260f1e224c/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:1.10.0] /Users/galihlarasprakoso/.gradle/caches/transforms-1/files-1.1/drawee-1.10.0.aar/689baa2c87828778ea2689260f1e224c/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:1.10.0] /Users/galihlarasprakoso/.gradle/caches/transforms-1/files-1.1/imagepipeline-1.10.0.aar/cfdc8c626cdab7f2fe9bd8d893a50ef6/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:1.10.0] /Users/galihlarasprakoso/.gradle/caches/transforms-1/files-1.1/imagepipeline-1.10.0.aar/cfdc8c626cdab7f2fe9bd8d893a50ef6/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:1.10.0] /Users/galihlarasprakoso/.gradle/caches/transforms-1/files-1.1/imagepipeline-base-1.10.0.aar/231ab95a9892c54fba86343d5b747609/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:1.10.0] /Users/galihlarasprakoso/.gradle/caches/transforms-1/files-1.1/imagepipeline-base-1.10.0.aar/231ab95a9892c54fba86343d5b747609/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.soloader:soloader:0.6.0] /Users/galihlarasprakoso/.gradle/caches/transforms-1/files-1.1/soloader-0.6.0.aar/a8352e748f061d5e5feafa3075c93d3d/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.soloader:soloader:0.6.0] /Users/galihlarasprakoso/.gradle/caches/transforms-1/files-1.1/soloader-0.6.0.aar/a8352e748f061d5e5feafa3075c93d3d/AndroidManifest.xml:7:5-9:41
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/galihlarasprakoso/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/bebd264250633e4148752fb2fa6cb947/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/galihlarasprakoso/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/bebd264250633e4148752fb2fa6cb947/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/galihlarasprakoso/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/421be156a7cfa0a0a83f1ce671d62e6d/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/galihlarasprakoso/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/421be156a7cfa0a0a83f1ce671d62e6d/AndroidManifest.xml:20:5-44
+MERGED from [com.facebook.fresco:fbcore:1.10.0] /Users/galihlarasprakoso/.gradle/caches/transforms-1/files-1.1/fbcore-1.10.0.aar/84878f011eeb54d81bd5dd13ffbf7932/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:1.10.0] /Users/galihlarasprakoso/.gradle/caches/transforms-1/files-1.1/fbcore-1.10.0.aar/84878f011eeb54d81bd5dd13ffbf7932/AndroidManifest.xml:5:5-7:41
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/galihlarasprakoso/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/8fbd9adcf2adca4470b7322eeb33acd0/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/galihlarasprakoso/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/8fbd9adcf2adca4470b7322eeb33acd0/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /Users/galihlarasprakoso/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/6b0e357faccadf1962ccbc325f6bd202/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /Users/galihlarasprakoso/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/6b0e357faccadf1962ccbc325f6bd202/AndroidManifest.xml:20:5-44
+INJECTED from /Users/galihlarasprakoso/Projects/MyProjects/ReactNative/AppCenterTest/android/app/src/main/AndroidManifest.xml
+INJECTED from /Users/galihlarasprakoso/Projects/MyProjects/ReactNative/AppCenterTest/android/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/galihlarasprakoso/Projects/MyProjects/ReactNative/AppCenterTest/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/galihlarasprakoso/Projects/MyProjects/ReactNative/AppCenterTest/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/galihlarasprakoso/Projects/MyProjects/ReactNative/AppCenterTest/android/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/galihlarasprakoso/Projects/MyProjects/ReactNative/AppCenterTest/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/galihlarasprakoso/Projects/MyProjects/ReactNative/AppCenterTest/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/galihlarasprakoso/Projects/MyProjects/ReactNative/AppCenterTest/android/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.microsoft.appcenter:appcenter:1.11.3] /Users/galihlarasprakoso/.gradle/caches/transforms-1/files-1.1/appcenter-1.11.3.aar/4e91660a3fe842398def6a847a120aba/AndroidManifest.xml:12:5-79
+	android:name
+		ADDED from [com.microsoft.appcenter:appcenter:1.11.3] /Users/galihlarasprakoso/.gradle/caches/transforms-1/files-1.1/appcenter-1.11.3.aar/4e91660a3fe842398def6a847a120aba/AndroidManifest.xml:12:22-76
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+IMPLIED from /Users/galihlarasprakoso/Projects/MyProjects/ReactNative/AppCenterTest/android/app/src/main/AndroidManifest.xml:1:1-26:12 reason: org.webkit.android_jsc has a targetSdkVersion < 4
+uses-permission#android.permission.READ_PHONE_STATE
+IMPLIED from /Users/galihlarasprakoso/Projects/MyProjects/ReactNative/AppCenterTest/android/app/src/main/AndroidManifest.xml:1:1-26:12 reason: org.webkit.android_jsc has a targetSdkVersion < 4
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+IMPLIED from /Users/galihlarasprakoso/Projects/MyProjects/ReactNative/AppCenterTest/android/app/src/main/AndroidManifest.xml:1:1-26:12 reason: org.webkit.android_jsc requested WRITE_EXTERNAL_STORAGE
